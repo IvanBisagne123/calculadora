@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1567814026 source:e:\usuarios\escritorio\utn1cuatri\practicas\calcui\main.c
+	<stdio.h>
+	<stdlib.h>
+	"op.h"
+
+1567814009 e:\usuarios\escritorio\utn1cuatri\practicas\calcui\op.h
+
+1567816860 source:c:\users\grace\desktop\tp3tests-master\calcui\main.c
+	<stdio.h>
+	<stdlib.h>
+	"op.h"
+
+1567799772 c:\users\grace\desktop\tp3tests-master\calcui\op.h
+
+1567799772 source:c:\users\grace\desktop\tp3tests-master\calcui\op.c
+	"op.h"
+
+1567816984 source:c:\users\grace\desktop\calcui\main.c
+	<stdio.h>
+	<stdlib.h>
+	"op.h"
+
+1567799772 c:\users\grace\desktop\calcui\op.h
+
+1567799772 source:c:\users\grace\desktop\calcui\op.c
+	"op.h"
+
